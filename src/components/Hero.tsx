@@ -23,7 +23,7 @@ const Hero = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Button asChild size="lg" className="bg-brand-green hover:bg-green-700 text-white font-bold py-3 px-8">
-              <Link to="/book-now">Book Now</Link>
+              <Link to="/vehicles">Book Now</Link>
             </Button>
             <Button asChild variant="outline" size="lg" className="bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white border-white">
               <Link to="/vehicles">View Vehicles</Link>
