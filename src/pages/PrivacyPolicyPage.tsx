@@ -13,7 +13,7 @@ export default function PrivacyPolicyPage() {
           
           <div className="prose prose-lg max-w-none">
             <p>
-              At Wheelie Wanderlust, we take your privacy seriously. This Privacy Policy explains how we collect, use, 
+              At Akula Rentals, we take your privacy seriously. This Privacy Policy explains how we collect, use, 
               disclose, and safeguard your information when you visit our website or use our vehicle rental services.
             </p>
             
@@ -103,9 +103,9 @@ export default function PrivacyPolicyPage() {
               If you have any questions about this Privacy Policy, please contact us at:
             </p>
             <p className="mt-4">
-              <strong>Email:</strong> privacy@wheeliewanderlust.com<br />
-              <strong>Phone:</strong> +1 (555) 123-4567<br />
-              <strong>Address:</strong> 123 Wheelie Way, Wanderlust Plaza, San Francisco, CA 94105
+              <strong>Email:</strong> info@akularentals.in<br />
+              <strong>Phone:</strong> +919345750504<br />
+              <strong>Address:</strong> <a href="https://maps.app.goo.gl/XnQnu1gcfS8uP96L7" target="_blank" rel="noopener noreferrer" className="hover:underline">View on Google Maps</a>
             </p>
           </div>
         </div>

@@ -98,9 +98,13 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <ul className="space-y-2 text-gray-400">
-              <li>Phone: 8005652230</li>
-              <li>Email: contact@akularentals.com</li>
-              <li>Address: Near Laxman Jhula, Rishikesh, Uttarakhand</li>
+              <li>Phone: +919345750504</li>
+              <li>Email: info@akularentals.in</li>
+              <li>
+                <a href="https://maps.app.goo.gl/XnQnu1gcfS8uP96L7" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                  Address: View on Google Maps
+                </a>
+              </li>
             </ul>
           </div>
         </div>

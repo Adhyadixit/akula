@@ -13,7 +13,7 @@ export default function TermsOfServicePage() {
           
           <div className="prose prose-lg max-w-none">
             <p>
-              Welcome to Wheelie Wanderlust. Please read these Terms of Service carefully before using our website 
+              Welcome to Akula Rentals. Please read these Terms of Service carefully before using our website 
               or vehicle rental services. By accessing or using our service, you agree to be bound by these Terms.
             </p>
             
@@ -26,7 +26,7 @@ export default function TermsOfServicePage() {
             
             <h2 className="text-2xl font-semibold mt-8 mb-4">2. Rental Agreement</h2>
             <p>
-              When you make a reservation through our website, you are entering into a rental agreement with Wheelie Wanderlust. 
+              When you make a reservation through our website, you are entering into a rental agreement with Akula Rentals. 
               The specific terms of your rental will be provided at the time of reservation and pickup.
             </p>
             <p>
@@ -112,13 +112,13 @@ export default function TermsOfServicePage() {
             <h2 className="text-2xl font-semibold mt-8 mb-4">8. Intellectual Property</h2>
             <p>
               All content included on this website, such as text, graphics, logos, images, as well as the compilation 
-              thereof, and any software used on this website, is the property of Wheelie Wanderlust or its suppliers 
+              thereof, and any software used on this website, is the property of Akula Rentals or its suppliers 
               and protected by copyright and intellectual property laws.
             </p>
             
             <h2 className="text-2xl font-semibold mt-8 mb-4">9. Limitation of Liability</h2>
             <p>
-              To the fullest extent permitted by law, Wheelie Wanderlust shall not be liable for any direct, indirect, 
+              To the fullest extent permitted by law, Akula Rentals shall not be liable for any direct, indirect, 
               incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether 
               incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from:
             </p>
@@ -131,9 +131,9 @@ export default function TermsOfServicePage() {
             
             <h2 className="text-2xl font-semibold mt-8 mb-4">10. Governing Law</h2>
             <p>
-              These Terms shall be governed and construed in accordance with the laws of the State of California, 
+              These Terms shall be governed and construed in accordance with the laws of India, 
               without regard to its conflict of law provisions. Any dispute arising under or relating in any way to 
-              these Terms will be resolved exclusively in the courts located in San Francisco, California.
+              these Terms will be resolved exclusively in the courts located in India.
             </p>
             
             <h2 className="text-2xl font-semibold mt-8 mb-4">11. Changes to Terms</h2>
@@ -148,9 +148,9 @@ export default function TermsOfServicePage() {
               If you have any questions about these Terms, please contact us at:
             </p>
             <p className="mt-4">
-              <strong>Email:</strong> legal@wheeliewanderlust.com<br />
-              <strong>Phone:</strong> +1 (555) 123-4567<br />
-              <strong>Address:</strong> 123 Wheelie Way, Wanderlust Plaza, San Francisco, CA 94105
+              <strong>Email:</strong> info@akularentals.in<br />
+              <strong>Phone:</strong> +919345750504<br />
+              <strong>Address:</strong> <a href="https://maps.app.goo.gl/XnQnu1gcfS8uP96L7" target="_blank" rel="noopener noreferrer" className="hover:underline">View on Google Maps</a>
             </p>
           </div>
         </div>

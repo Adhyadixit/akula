@@ -150,9 +150,9 @@ export default function ContactUsPage() {
                     <div>
                       <h3 className="font-medium">Main Office</h3>
                       <p className="text-sm text-muted-foreground">
-                        123 Wheelie Way, Wanderlust Plaza<br />
-                        San Francisco, CA 94105<br />
-                        United States
+                        <a href="https://maps.app.goo.gl/XnQnu1gcfS8uP96L7" target="_blank" rel="noopener noreferrer" className="hover:underline">
+                          View on Google Maps
+                        </a>
                       </p>
                     </div>
                   </div>
@@ -162,7 +162,7 @@ export default function ContactUsPage() {
                     <div>
                       <h3 className="font-medium">Phone</h3>
                       <p className="text-sm text-muted-foreground">
-                        +1 (555) 123-4567
+                        +919345750504
                       </p>
                     </div>
                   </div>
@@ -172,7 +172,7 @@ export default function ContactUsPage() {
                     <div>
                       <h3 className="font-medium">Email</h3>
                       <p className="text-sm text-muted-foreground">
-                        info@wheeliewanderlust.com
+                        info@akularentals.in
                       </p>
                     </div>
                   </div>
