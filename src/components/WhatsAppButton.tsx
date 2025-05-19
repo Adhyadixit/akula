@@ -2,7 +2,7 @@
 const WhatsAppButton = () => {
   return (
     <a
-      href="https://wa.me/918005652230?text=Hi,%20I%20would%20like%20to%20rent%20a%20bike/scooter"
+      href="https://wa.me/919534750504?text=Hi,%20I%20would%20like%20to%20rent%20a%20bike/scooter"
       className="fixed bottom-6 right-6 z-50 bg-green-500 hover:bg-green-600 text-white p-3 rounded-full shadow-lg transition-transform hover:scale-110"
       target="_blank"
       rel="noopener noreferrer"

@@ -76,7 +76,7 @@ const VehicleCard = ({ vehicle }: VehicleCardProps) => {
           
           <div className="grid grid-cols-2 gap-2">
             <Button asChild variant="outline" className="flex items-center justify-center">
-              <a href="tel:9354750504">
+              <a href="tel:9534750504">
                 <Phone className="h-4 w-4 mr-1" />
                 Call Now
               </a>
@@ -84,7 +84,7 @@ const VehicleCard = ({ vehicle }: VehicleCardProps) => {
             
             <Button asChild variant="outline" className="flex items-center justify-center text-green-600 border-green-600 hover:bg-green-50">
               <a 
-                href={`https://wa.me/919354750504?text=Hi! I'm interested in renting the ${vehicle.name}`} 
+                href={`https://wa.me/919534750504?text=Hi! I'm interested in renting the ${vehicle.name}`} 
                 target="_blank" 
                 rel="noopener noreferrer"
               >

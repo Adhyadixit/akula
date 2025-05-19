@@ -277,7 +277,7 @@ export default function LoginPage() {
                       <Input
                         id="phone"
                         name="phone"
-                        placeholder="+91 9876543210"
+                        placeholder="+91 9534750504"
                         value={signupData.phone}
                         onChange={handleSignupChange}
                         required

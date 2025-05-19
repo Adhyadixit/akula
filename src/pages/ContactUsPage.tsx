@@ -162,7 +162,7 @@ export default function ContactUsPage() {
                     <div>
                       <h3 className="font-medium">Phone</h3>
                       <p className="text-sm text-muted-foreground">
-                        +919345750504
+                        +919534750504
                       </p>
                     </div>
                   </div>

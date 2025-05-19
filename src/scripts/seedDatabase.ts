@@ -81,25 +81,25 @@ const users = [
   {
     email: 'admin@wheeliewanderlust.com',
     full_name: 'Admin User',
-    phone: '9876543210',
+    phone: '9534750504',
     role: 'admin'
   },
   {
     email: 'john.doe@example.com',
     full_name: 'John Doe',
-    phone: '9876543211',
+    phone: '9534750504',
     role: 'user'
   },
   {
     email: 'jane.smith@example.com',
     full_name: 'Jane Smith',
-    phone: '9876543212',
+    phone: '9534750504',
     role: 'user'
   },
   {
     email: 'amit.kumar@example.com',
     full_name: 'Amit Kumar',
-    phone: '9876543213',
+    phone: '9534750504',
     role: 'user'
   }
 ];

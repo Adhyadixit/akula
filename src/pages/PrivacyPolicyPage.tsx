@@ -104,7 +104,7 @@ export default function PrivacyPolicyPage() {
             </p>
             <p className="mt-4">
               <strong>Email:</strong> info@akularentals.in<br />
-              <strong>Phone:</strong> +919345750504<br />
+              <strong>Phone:</strong> +919534750504<br />
               <strong>Address:</strong> <a href="https://maps.app.goo.gl/XnQnu1gcfS8uP96L7" target="_blank" rel="noopener noreferrer" className="hover:underline">View on Google Maps</a>
             </p>
           </div>
